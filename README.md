@@ -20,6 +20,9 @@ A simple and interactive Tic Tac Toe game built using HTML, CSS, and JavaScript.
 ## Screenshot
 
 ![Game Screenshot](screenshot.png)
+![Screenshot 1](screenshot1.png)
+![Screenshot 2](screenshot2.png)
+![Screenshot 3](screenshot3.png)
 
 ## How to Run
 
